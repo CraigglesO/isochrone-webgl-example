@@ -12,7 +12,7 @@ import isochrone            from '../../Assets/isochrones/isochrones.json';
 /** Stylesheets **/
 import './Home.css';
 
-const MAPBOX_TOKEN = 'pk.eyJ1Ijoib2Nvbm5vcmN0MSIsImEiOiJjaW01aDhhM3gwMW5xdHFtNmgzbDg1b2Y1In0.RluMXl9MmJ-i9e4u01SwQg'; // eslint-disable-line
+const MAPBOX_TOKEN = ''; // eslint-disable-line
 
 // const d3 = require('d3');
 
