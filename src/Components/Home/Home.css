@@ -1,0 +1,69 @@
+.Home {
+  width:  100vw;
+  height: 100vh;
+}
+
+#home-map {
+  position: relative;
+  width:    100%;
+  height:   100%;
+  margin:   auto;
+}
+
+#map {
+  position: relative;
+  width:    100%;
+  height:   100%;
+  margin:   auto;
+}
+
+.marker {
+  z-index: 1000;
+}
+
+#deckgl-overlay {
+  opacity: 0.4;
+}
+
+/* svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  pointer-events: none;
+  fill-rule: evenodd;
+}
+
+g {
+  opacity:         0.40;
+  stroke-width:    30;
+  stroke-linecap:  round;
+  stroke-linejoin: round;
+} */
+
+/* path.isochrone-5 {
+  stroke:       #006837;
+  fill:         #006837;
+}
+path.isochrone-4 {
+  stroke:       #39B54A;
+  fill:         #39B54A;
+}
+path.isochrone-3 {
+  stroke:       #8CC63F;
+  fill:         #8CC63F;
+}
+path.isochrone-2 {
+  stroke:       #F7931E;
+  fill:         #F7931E;
+}
+path.isochrone-1 {
+  stroke:       #F15A24;
+  fill:         #F15A24;
+}
+path.isochrone-0 {
+  stroke:       #C1272D;
+  fill:         #C1272D;
+} */
